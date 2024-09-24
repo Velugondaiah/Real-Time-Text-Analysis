@@ -1,6 +1,6 @@
 
 <!-- Project -->
-Real-Time Text Analysis and String Replacement App
+# Real-Time Text Analysis and String Replacement App
 
 # Overview
 This is a React app that provides real-time text statistics and string replacement functionality.
