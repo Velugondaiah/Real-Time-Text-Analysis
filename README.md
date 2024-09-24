@@ -4,8 +4,6 @@
 
 # Overview
 This is a React app that provides real-time text statistics and string replacement functionality.
-# User name :
-
 1. View unique word count (case-insensitive).
 2. View character count, excluding spaces and punctuation.
 3. Perform string replacement in the text with case-sensitive matching.
