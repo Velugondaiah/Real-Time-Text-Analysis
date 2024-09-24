@@ -18,7 +18,7 @@ This is a React app that provides real-time text statistics and string replaceme
 
 # Steps
 
-1. Clone the repository: git clone https://github.com/yourusername/text-analysis-app.git
+1. Clone the repository: git clone https://github.com/Velugondaiah/Real-Time-Text-Analysis-and-String-Replacement-App2.git
 
 2. Navigate into the project directory: cd frontend
 
