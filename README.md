@@ -28,15 +28,4 @@ This is a React app that provides real-time text statistics and string replaceme
 
 The app will automatically open at http://localhost:3000 in your browser.
 
-<!-- Structure of Project -->
-
-├── public
-│   └── index.html
-├── src
-│   ├── App.js          // Main app logic
-│   ├── App.css         // Styles
-│   └── index.js        // React DOM entry point
-├── package.json        // Project configuration and dependencies
-└── README.md           // Project documentation
-
 <!-- Happy Learning....... -->
