@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# This README.md file provides clear instructions for users to install and run the project locally,
-# making it simple and user-friendly.
 
 <!-- Project -->
 Real-Time Text Analysis and String Replacement App
@@ -8,7 +6,7 @@ Real-Time Text Analysis and String Replacement App
 
 <!-- Project -->
 # Real-Time Text Analysis and String Replacement App
->>>>>>> 0b3f32d637fda5a99349669d09663be9d7580d65
+
 
 # Overview
 This is a React app that provides real-time text statistics and string replacement functionality.
@@ -29,7 +27,7 @@ This is a React app that provides real-time text statistics and string replaceme
 <<<<<<< HEAD
 1. Clone the repository: git clone https://github.com/yourusername/text-analysis-app.git
 =======
-1. Clone the repository: git clone https://github.com/Velugondaiah/Real-Time-Text-Analysis-and-String-Replacement-App2.git
+1. Clone the repository: git clone https://github.com/Velugondaiah/Real-Time-Text-Analysis.git
 >>>>>>> 0b3f32d637fda5a99349669d09663be9d7580d65
 
 2. Navigate into the project directory: cd frontend
@@ -41,18 +39,4 @@ This is a React app that provides real-time text statistics and string replaceme
 The app will automatically open at http://localhost:3000 in your browser.
 
 <<<<<<< HEAD
-<!-- Structure of Project -->
 
-├── public
-│   └── index.html
-├── src
-│   ├── App.js          // Main app logic
-│   ├── App.css         // Styles
-│   └── index.js        // React DOM entry point
-├── package.json        // Project configuration and dependencies
-└── README.md           // Project documentation
-
-<!-- Happy Learning....... -->
-=======
-<!-- Happy Learning....... -->
->>>>>>> 0b3f32d637fda5a99349669d09663be9d7580d65
