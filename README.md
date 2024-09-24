@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 
 <!-- Project -->
 Real-Time Text Analysis and String Replacement App
-=======
-
-<!-- Project -->
-# Real-Time Text Analysis and String Replacement App
-
 
 # Overview
 This is a React app that provides real-time text statistics and string replacement functionality.
@@ -24,11 +18,7 @@ This is a React app that provides real-time text statistics and string replaceme
 
 # Steps
 
-<<<<<<< HEAD
-1. Clone the repository: git clone https://github.com/yourusername/text-analysis-app.git
-=======
 1. Clone the repository: git clone https://github.com/Velugondaiah/Real-Time-Text-Analysis.git
->>>>>>> 0b3f32d637fda5a99349669d09663be9d7580d65
 
 2. Navigate into the project directory: cd frontend
 
@@ -38,5 +28,4 @@ This is a React app that provides real-time text statistics and string replaceme
 
 The app will automatically open at http://localhost:3000 in your browser.
 
-<<<<<<< HEAD
 
