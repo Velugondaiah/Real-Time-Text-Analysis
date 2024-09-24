@@ -1,5 +1,3 @@
-# This README.md file provides clear instructions for users to install and run the project locally,
-# making it simple and user-friendly.
 
 <!-- Project -->
 Real-Time Text Analysis and String Replacement App
